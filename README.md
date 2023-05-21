@@ -1,4 +1,4 @@
-# RecipyManagementSystem
+# RecipeManagementSystem
 
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
